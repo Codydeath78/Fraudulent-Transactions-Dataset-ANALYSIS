@@ -15,7 +15,7 @@ For our goals, we constructed some goals that contain a different vision compare
 # Algorithms Conducted
 Rule-based Algorithm, Decision Tree Algorithm, Random Forest Algorithm
 
-Detailed Report in PDF FILE.
+Detailed Report in PDF FILE & Jupyter Notebook containing visualized results and graphs.
 
 # Team Member Contributions
 Rogelio worked on the machine learning algorithm, Random forest, in order to predict whether a transaction is considered fraud or not by visualizing the dataset using important features, confusion matrix, hyperparameters, and scatter plots to understand the impact fraudulent transactions can have in the modern world and looking at the dataset to get a better understanding at what bad actors really want from the crime. 
