@@ -13,9 +13,9 @@ In another work, we found a github repository that handled a similar dataset tha
 For our goals, we constructed some goals that contain a different vision compared to prior research that aligned with our motivation of spreading awareness of fraudulent transactions regarding scenarios where bad activity could develop and attempt illegal activity with the owner’s balance. Also, we want to heavily emphasize the importance of more efficient and respectable learning models that institutions can employ for their business and customers as rule-based systems are considered vulnerable to such attacks that demand for more relevant models to protect against unethical behavior. We also wanted to apply rule-based and two other algorithms in order to determine which algorithm is more effective at finding fraudulent transactions. We want to demonstrate that we can detect fraudulent transactions without the need for neural networks or gradient boosting as this problem is considered a binary classification problem whether it is a fraudulent transaction or not.
 
 # Algorithms Conducted
-# Rule-based Algorithm
-# Decision Tree Algorithm
-# Random Forest Algorithm
+Rule-based Algorithm
+Decision Tree Algorithm
+Random Forest Algorithm
 
 # Detailed Report in PDF FILE -> -> ->
 
